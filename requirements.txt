@@ -1,0 +1,31 @@
+# requirements.txt — RHF Empirical Validation Pipeline
+# WP 1.1: Computational Emanation-Schema Topology Analysis
+# Python >=3.11, <3.14 | Windows 11 compatible
+# Last verified: March 2026
+# Perplexity-confirmed stable versions (Option B — recommended)
+#
+# To install: pip install -r requirements.txt
+# To run pipeline: python scripts/run_pipeline.py
+
+networkx==3.5            # Released 29 May 2025. Full Python 3.11-3.13 support.
+                         # Latest stable with VF2 isomorphism and all graph algorithms.
+
+numpy==2.4.3             # Released 9 Mar 2026. Python 3.11-3.14.
+
+scipy==1.17.1            # Released 22 Feb 2026. Python 3.11-3.14.
+                         # Used for: mannwhitneyu, linkage, squareform, chi2_contingency
+
+matplotlib==3.10.8       # Latest stable. Python >=3.10. Required for Agg backend (headless).
+
+pytest==8.3.4            # Testing framework. Optional — for pipeline validation.
+
+# PyMuPDF (fitz) — required ONLY for reading Perplexity scouting PDFs, not the pipeline
+# Install separately if needed: pip install pymupdf
+# pymupdf>=1.24.0
+
+# NOTES:
+# - Python 3.10 is supported by networkx<=3.4.2, numpy<=2.2.6, scipy<=1.15.2
+#   (Python 3.10 EOL: October 2026 — upgrade to 3.11 recommended)
+# - All VF2 isomorphism features used in isomorphism_tests.py are available in networkx 3.5
+# - matplotlib.use('Agg') is set at top of visualize.py for headless figure generation
+# - No graphviz binary required — hierarchical layout is implemented manually

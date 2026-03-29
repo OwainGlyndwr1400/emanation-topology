@@ -1,0 +1,482 @@
+{
+  "test_1_per_tradition_extremity": {
+    "chaldean": {
+      "depth": {
+        "real_value": 5,
+        "null_mean": 3.358,
+        "null_std": 0.8606,
+        "z_score": 1.908,
+        "cohen_d": 1.908,
+        "p_one_sided": 0.099,
+        "direction_tested": "high",
+        "significant": false
+      },
+      "width": {
+        "real_value": 1,
+        "null_mean": 2.199,
+        "null_std": 0.6275,
+        "z_score": -1.9107,
+        "cohen_d": 1.9107,
+        "p_one_sided": 0.099,
+        "direction_tested": "low",
+        "significant": false
+      },
+      "leaf_count": {
+        "real_value": 1,
+        "null_mean": 2.412,
+        "null_std": 0.7395,
+        "z_score": -1.9095,
+        "cohen_d": 1.9095,
+        "p_one_sided": 0.099,
+        "direction_tested": "low",
+        "significant": false
+      }
+    },
+    "genesis_creationist": {
+      "depth": {
+        "real_value": 2,
+        "null_mean": 4.292,
+        "null_std": 1.0982,
+        "z_score": -2.0871,
+        "cohen_d": 2.0871,
+        "p_one_sided": 1.0,
+        "direction_tested": "high",
+        "significant": false
+      },
+      "width": {
+        "real_value": 6,
+        "null_mean": 2.56,
+        "null_std": 0.7341,
+        "z_score": 4.6859,
+        "cohen_d": 4.6859,
+        "p_one_sided": 1.0,
+        "direction_tested": "low",
+        "significant": false
+      },
+      "leaf_count": {
+        "real_value": 6,
+        "null_mean": 3.142,
+        "null_std": 0.9059,
+        "z_score": 3.1549,
+        "cohen_d": 3.1549,
+        "p_one_sided": 1.0,
+        "direction_tested": "low",
+        "significant": false
+      }
+    },
+    "hermetic": {
+      "depth": {
+        "real_value": 3,
+        "null_mean": 4.292,
+        "null_std": 1.0982,
+        "z_score": -1.1765,
+        "cohen_d": 1.1765,
+        "p_one_sided": 0.969,
+        "direction_tested": "high",
+        "significant": false
+      },
+      "width": {
+        "real_value": 3,
+        "null_mean": 2.56,
+        "null_std": 0.7341,
+        "z_score": 0.5994,
+        "cohen_d": 0.5994,
+        "p_one_sided": 0.905,
+        "direction_tested": "low",
+        "significant": false
+      },
+      "leaf_count": {
+        "real_value": 3,
+        "null_mean": 3.142,
+        "null_std": 0.9059,
+        "z_score": -0.1568,
+        "cohen_d": 0.1568,
+        "p_one_sided": 0.668,
+        "direction_tested": "low",
+        "significant": false
+      }
+    },
+    "lurianic_kabbalistic": {
+      "depth": {
+        "real_value": 6,
+        "null_mean": 3.792,
+        "null_std": 0.9282,
+        "z_score": 2.3787,
+        "cohen_d": 2.3787,
+        "p_one_sided": 0.033,
+        "direction_tested": "high",
+        "significant": true
+      },
+      "width": {
+        "real_value": 1,
+        "null_mean": 2.408,
+        "null_std": 0.6449,
+        "z_score": -2.1831,
+        "cohen_d": 2.1831,
+        "p_one_sided": 0.033,
+        "direction_tested": "low",
+        "significant": true
+      },
+      "leaf_count": {
+        "real_value": 1,
+        "null_mean": 2.807,
+        "null_std": 0.7761,
+        "z_score": -2.3283,
+        "cohen_d": 2.3283,
+        "p_one_sided": 0.033,
+        "direction_tested": "low",
+        "significant": true
+      }
+    },
+    "plotinian_neoplatonic": {
+      "depth": {
+        "real_value": 4,
+        "null_mean": 2.852,
+        "null_std": 0.716,
+        "z_score": 1.6034,
+        "cohen_d": 1.6034,
+        "p_one_sided": 0.184,
+        "direction_tested": "high",
+        "significant": false
+      },
+      "width": {
+        "real_value": 1,
+        "null_mean": 1.977,
+        "null_std": 0.6024,
+        "z_score": -1.622,
+        "cohen_d": 1.622,
+        "p_one_sided": 0.184,
+        "direction_tested": "low",
+        "significant": false
+      },
+      "leaf_count": {
+        "real_value": 1,
+        "null_mean": 2.088,
+        "null_std": 0.6832,
+        "z_score": -1.5926,
+        "cohen_d": 1.5926,
+        "p_one_sided": 0.184,
+        "direction_tested": "low",
+        "significant": false
+      }
+    },
+    "samkhya": {
+      "depth": {
+        "real_value": 6,
+        "null_mean": 3.792,
+        "null_std": 0.9282,
+        "z_score": 2.3787,
+        "cohen_d": 2.3787,
+        "p_one_sided": 0.033,
+        "direction_tested": "high",
+        "significant": true
+      },
+      "width": {
+        "real_value": 1,
+        "null_mean": 2.408,
+        "null_std": 0.6449,
+        "z_score": -2.1831,
+        "cohen_d": 2.1831,
+        "p_one_sided": 0.033,
+        "direction_tested": "low",
+        "significant": true
+      },
+      "leaf_count": {
+        "real_value": 1,
+        "null_mean": 2.807,
+        "null_std": 0.7761,
+        "z_score": -2.3283,
+        "cohen_d": 2.3283,
+        "p_one_sided": 0.033,
+        "direction_tested": "low",
+        "significant": true
+      }
+    },
+    "sethian_gnostic": {
+      "depth": {
+        "real_value": 7,
+        "null_mean": 4.292,
+        "null_std": 1.0982,
+        "z_score": 2.466,
+        "cohen_d": 2.466,
+        "p_one_sided": 0.031,
+        "direction_tested": "high",
+        "significant": true
+      },
+      "width": {
+        "real_value": 1,
+        "null_mean": 2.56,
+        "null_std": 0.7341,
+        "z_score": -2.125,
+        "cohen_d": 2.125,
+        "p_one_sided": 0.031,
+        "direction_tested": "low",
+        "significant": true
+      },
+      "leaf_count": {
+        "real_value": 1,
+        "null_mean": 3.142,
+        "null_std": 0.9059,
+        "z_score": -2.3645,
+        "cohen_d": 2.3645,
+        "p_one_sided": 0.031,
+        "direction_tested": "low",
+        "significant": true
+      }
+    },
+    "taoist_ddj": {
+      "depth": {
+        "real_value": 4,
+        "null_mean": 2.852,
+        "null_std": 0.716,
+        "z_score": 1.6034,
+        "cohen_d": 1.6034,
+        "p_one_sided": 0.184,
+        "direction_tested": "high",
+        "significant": false
+      },
+      "width": {
+        "real_value": 1,
+        "null_mean": 1.977,
+        "null_std": 0.6024,
+        "z_score": -1.622,
+        "cohen_d": 1.622,
+        "p_one_sided": 0.184,
+        "direction_tested": "low",
+        "significant": false
+      },
+      "leaf_count": {
+        "real_value": 1,
+        "null_mean": 2.088,
+        "null_std": 0.6832,
+        "z_score": -1.5926,
+        "cohen_d": 1.5926,
+        "p_one_sided": 0.184,
+        "direction_tested": "low",
+        "significant": false
+      }
+    },
+    "valentinian_gnostic": {
+      "depth": {
+        "real_value": 7,
+        "null_mean": 4.633,
+        "null_std": 1.166,
+        "z_score": 2.0299,
+        "cohen_d": 2.0299,
+        "p_one_sided": 0.061,
+        "direction_tested": "high",
+        "significant": false
+      },
+      "width": {
+        "real_value": 2,
+        "null_mean": 2.768,
+        "null_std": 0.7712,
+        "z_score": -0.9958,
+        "cohen_d": 0.9958,
+        "p_one_sided": 0.394,
+        "direction_tested": "low",
+        "significant": false
+      },
+      "leaf_count": {
+        "real_value": 2,
+        "null_mean": 3.504,
+        "null_std": 0.9137,
+        "z_score": -1.6461,
+        "cohen_d": 1.6461,
+        "p_one_sided": 0.116,
+        "direction_tested": "low",
+        "significant": false
+      }
+    }
+  },
+  "test_2_depth_variance": {
+    "real_depths": {
+      "chaldean": 5,
+      "genesis_creationist": 2,
+      "hermetic": 3,
+      "lurianic_kabbalistic": 6,
+      "plotinian_neoplatonic": 4,
+      "samkhya": 6,
+      "sethian_gnostic": 7,
+      "taoist_ddj": 4,
+      "valentinian_gnostic": 7
+    },
+    "real_variance": 3.1111,
+    "real_std": 1.7638,
+    "null_variance_mean": 1.3718,
+    "null_variance_std": 0.666,
+    "null_variance_p05": 0.5,
+    "null_variance_p50": 1.25,
+    "null_variance_p95": 2.6111,
+    "p_convergence": 0.9846,
+    "significant_convergence": false,
+    "n_permutations": 10000,
+    "interpretation": "Real schemas do not show significantly lower depth variance than chance"
+  },
+  "test_3_chain_frequency": {
+    "observed_chains": 6,
+    "n_traditions": 9,
+    "chain_traditions": [
+      "chaldean",
+      "lurianic_kabbalistic",
+      "plotinian_neoplatonic",
+      "samkhya",
+      "sethian_gnostic",
+      "taoist_ddj"
+    ],
+    "non_chain_traditions": [
+      "genesis_creationist",
+      "hermetic",
+      "valentinian_gnostic"
+    ],
+    "observed_frequency": 0.6667,
+    "baseline_rates_per_tradition": {
+      "chaldean": 0.099,
+      "genesis_creationist": 0.031,
+      "hermetic": 0.031,
+      "lurianic_kabbalistic": 0.033,
+      "plotinian_neoplatonic": 0.184,
+      "samkhya": 0.033,
+      "sethian_gnostic": 0.031,
+      "taoist_ddj": 0.184,
+      "valentinian_gnostic": 0.013
+    },
+    "expected_chains_mean": 0.6387,
+    "p_value": 0.0,
+    "significant": true,
+    "n_monte_carlo": 100000,
+    "interpretation": "Observed 6/9 linear chains. p = 0.0000. SIGNIFICANT: corpus contains significantly more linear chains than baseline predicts."
+  },
+  "test_4_mann_whitney_depth": {
+    "real_depths": [
+      2,
+      3,
+      4,
+      4,
+      5,
+      6,
+      6,
+      7,
+      7
+    ],
+    "real_mean": 4.8889,
+    "real_median": 5.0,
+    "null_mean": 3.889,
+    "null_median": 4.0,
+    "null_std": 1.2009,
+    "U_statistic": 6105.0,
+    "p_one_sided": 0.02823,
+    "significant": true,
+    "interpretation": "Real schemas are significantly deeper than random DAG trees of similar size."
+  },
+  "test_5_pairwise_depth_similarity": {
+    "pairwise_depth_diffs": {
+      "chaldean vs genesis_creationist": 3,
+      "chaldean vs hermetic": 2,
+      "chaldean vs lurianic_kabbalistic": 1,
+      "chaldean vs plotinian_neoplatonic": 1,
+      "chaldean vs samkhya": 1,
+      "chaldean vs sethian_gnostic": 2,
+      "chaldean vs taoist_ddj": 1,
+      "chaldean vs valentinian_gnostic": 2,
+      "genesis_creationist vs hermetic": 1,
+      "genesis_creationist vs lurianic_kabbalistic": 4,
+      "genesis_creationist vs plotinian_neoplatonic": 2,
+      "genesis_creationist vs samkhya": 4,
+      "genesis_creationist vs sethian_gnostic": 5,
+      "genesis_creationist vs taoist_ddj": 2,
+      "genesis_creationist vs valentinian_gnostic": 5,
+      "hermetic vs lurianic_kabbalistic": 3,
+      "hermetic vs plotinian_neoplatonic": 1,
+      "hermetic vs samkhya": 3,
+      "hermetic vs sethian_gnostic": 4,
+      "hermetic vs taoist_ddj": 1,
+      "hermetic vs valentinian_gnostic": 4,
+      "lurianic_kabbalistic vs plotinian_neoplatonic": 2,
+      "lurianic_kabbalistic vs samkhya": 0,
+      "lurianic_kabbalistic vs sethian_gnostic": 1,
+      "lurianic_kabbalistic vs taoist_ddj": 2,
+      "lurianic_kabbalistic vs valentinian_gnostic": 1,
+      "plotinian_neoplatonic vs samkhya": 2,
+      "plotinian_neoplatonic vs sethian_gnostic": 3,
+      "plotinian_neoplatonic vs taoist_ddj": 0,
+      "plotinian_neoplatonic vs valentinian_gnostic": 3,
+      "samkhya vs sethian_gnostic": 1,
+      "samkhya vs taoist_ddj": 2,
+      "samkhya vs valentinian_gnostic": 1,
+      "sethian_gnostic vs taoist_ddj": 3,
+      "sethian_gnostic vs valentinian_gnostic": 0,
+      "taoist_ddj vs valentinian_gnostic": 3
+    },
+    "real_mean_pairwise_diff": 2.1111,
+    "null_mean_diff_mean": 1.273,
+    "null_mean_diff_std": 0.3443,
+    "null_mean_diff_p05": 0.7222,
+    "null_mean_diff_p50": 1.2778,
+    "null_mean_diff_p95": 1.8889,
+    "p_similarity": 0.9918,
+    "significant_similarity": false,
+    "n_permutations": 10000,
+    "interpretation": "Real schemas are NOT significantly more similar in depth than random trees of the same sizes. Depth similarity could be due to chance."
+  },
+  "test_6_role_similarity_matrix": {
+    "pairwise_role_similarity": {
+      "chaldean vs genesis_creationist": 0.3333,
+      "chaldean vs hermetic": 0.25,
+      "chaldean vs lurianic_kabbalistic": 0.1667,
+      "chaldean vs plotinian_neoplatonic": 0.4,
+      "chaldean vs samkhya": 0.5,
+      "chaldean vs sethian_gnostic": 0.5,
+      "chaldean vs taoist_ddj": 0.4,
+      "chaldean vs valentinian_gnostic": 0.3333,
+      "genesis_creationist vs hermetic": 0.3333,
+      "genesis_creationist vs lurianic_kabbalistic": 0.3333,
+      "genesis_creationist vs plotinian_neoplatonic": 0.6667,
+      "genesis_creationist vs samkhya": 0.6667,
+      "genesis_creationist vs sethian_gnostic": 0.6667,
+      "genesis_creationist vs taoist_ddj": 0.6667,
+      "genesis_creationist vs valentinian_gnostic": 0.6667,
+      "hermetic vs lurianic_kabbalistic": 0.25,
+      "hermetic vs plotinian_neoplatonic": 0.25,
+      "hermetic vs samkhya": 0.25,
+      "hermetic vs sethian_gnostic": 0.25,
+      "hermetic vs taoist_ddj": 0.25,
+      "hermetic vs valentinian_gnostic": 0.25,
+      "lurianic_kabbalistic vs plotinian_neoplatonic": 0.2,
+      "lurianic_kabbalistic vs samkhya": 0.4286,
+      "lurianic_kabbalistic vs sethian_gnostic": 0.1429,
+      "lurianic_kabbalistic vs taoist_ddj": 0.2,
+      "lurianic_kabbalistic vs valentinian_gnostic": 0.1429,
+      "plotinian_neoplatonic vs samkhya": 0.6,
+      "plotinian_neoplatonic vs sethian_gnostic": 0.6,
+      "plotinian_neoplatonic vs taoist_ddj": 0.8,
+      "plotinian_neoplatonic vs valentinian_gnostic": 0.4,
+      "samkhya vs sethian_gnostic": 0.5714,
+      "samkhya vs taoist_ddj": 0.6,
+      "samkhya vs valentinian_gnostic": 0.4286,
+      "sethian_gnostic vs taoist_ddj": 0.6,
+      "sethian_gnostic vs valentinian_gnostic": 0.875,
+      "taoist_ddj vs valentinian_gnostic": 0.4
+    },
+    "mean_similarity": 0.427,
+    "most_similar_pair": "sethian_gnostic vs valentinian_gnostic",
+    "most_similar_score": 0.875,
+    "least_similar_pair": "lurianic_kabbalistic vs sethian_gnostic",
+    "least_similar_score": 0.1429,
+    "pairs_above_0.5": [
+      "sethian_gnostic vs valentinian_gnostic",
+      "plotinian_neoplatonic vs taoist_ddj",
+      "genesis_creationist vs valentinian_gnostic",
+      "genesis_creationist vs taoist_ddj",
+      "genesis_creationist vs sethian_gnostic",
+      "genesis_creationist vs samkhya",
+      "genesis_creationist vs plotinian_neoplatonic",
+      "sethian_gnostic vs taoist_ddj",
+      "samkhya vs taoist_ddj",
+      "plotinian_neoplatonic vs sethian_gnostic",
+      "plotinian_neoplatonic vs samkhya",
+      "samkhya vs sethian_gnostic"
+    ],
+    "note": "Similarity = proportion of shared depth levels with identical sorted functional role lists. No null comparison available (controls have no role assignments)."
+  }
+}

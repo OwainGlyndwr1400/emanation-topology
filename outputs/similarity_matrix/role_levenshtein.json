@@ -1,0 +1,290 @@
+{
+  "chaldean vs genesis_creationist": {
+    "role_seq_edit_distance": 5,
+    "normalized_role_seq_distance": 0.8333,
+    "seq_lengths": [
+      6,
+      3
+    ]
+  },
+  "chaldean vs hermetic": {
+    "role_seq_edit_distance": 4,
+    "normalized_role_seq_distance": 0.6667,
+    "seq_lengths": [
+      6,
+      4
+    ]
+  },
+  "chaldean vs lurianic_kabbalistic": {
+    "role_seq_edit_distance": 4,
+    "normalized_role_seq_distance": 0.5714,
+    "seq_lengths": [
+      6,
+      7
+    ]
+  },
+  "chaldean vs plotinian_neoplatonic": {
+    "role_seq_edit_distance": 3,
+    "normalized_role_seq_distance": 0.5,
+    "seq_lengths": [
+      6,
+      5
+    ]
+  },
+  "chaldean vs samkhya": {
+    "role_seq_edit_distance": 3,
+    "normalized_role_seq_distance": 0.4286,
+    "seq_lengths": [
+      6,
+      7
+    ]
+  },
+  "chaldean vs sethian_gnostic": {
+    "role_seq_edit_distance": 3,
+    "normalized_role_seq_distance": 0.375,
+    "seq_lengths": [
+      6,
+      8
+    ]
+  },
+  "chaldean vs taoist_ddj": {
+    "role_seq_edit_distance": 3,
+    "normalized_role_seq_distance": 0.5,
+    "seq_lengths": [
+      6,
+      5
+    ]
+  },
+  "chaldean vs valentinian_gnostic": {
+    "role_seq_edit_distance": 3,
+    "normalized_role_seq_distance": 0.375,
+    "seq_lengths": [
+      6,
+      8
+    ]
+  },
+  "genesis_creationist vs hermetic": {
+    "role_seq_edit_distance": 2,
+    "normalized_role_seq_distance": 0.5,
+    "seq_lengths": [
+      3,
+      4
+    ]
+  },
+  "genesis_creationist vs lurianic_kabbalistic": {
+    "role_seq_edit_distance": 5,
+    "normalized_role_seq_distance": 0.7143,
+    "seq_lengths": [
+      3,
+      7
+    ]
+  },
+  "genesis_creationist vs plotinian_neoplatonic": {
+    "role_seq_edit_distance": 3,
+    "normalized_role_seq_distance": 0.6,
+    "seq_lengths": [
+      3,
+      5
+    ]
+  },
+  "genesis_creationist vs samkhya": {
+    "role_seq_edit_distance": 5,
+    "normalized_role_seq_distance": 0.7143,
+    "seq_lengths": [
+      3,
+      7
+    ]
+  },
+  "genesis_creationist vs sethian_gnostic": {
+    "role_seq_edit_distance": 6,
+    "normalized_role_seq_distance": 0.75,
+    "seq_lengths": [
+      3,
+      8
+    ]
+  },
+  "genesis_creationist vs taoist_ddj": {
+    "role_seq_edit_distance": 3,
+    "normalized_role_seq_distance": 0.6,
+    "seq_lengths": [
+      3,
+      5
+    ]
+  },
+  "genesis_creationist vs valentinian_gnostic": {
+    "role_seq_edit_distance": 6,
+    "normalized_role_seq_distance": 0.75,
+    "seq_lengths": [
+      3,
+      8
+    ]
+  },
+  "hermetic vs lurianic_kabbalistic": {
+    "role_seq_edit_distance": 5,
+    "normalized_role_seq_distance": 0.7143,
+    "seq_lengths": [
+      4,
+      7
+    ]
+  },
+  "hermetic vs plotinian_neoplatonic": {
+    "role_seq_edit_distance": 3,
+    "normalized_role_seq_distance": 0.6,
+    "seq_lengths": [
+      4,
+      5
+    ]
+  },
+  "hermetic vs samkhya": {
+    "role_seq_edit_distance": 5,
+    "normalized_role_seq_distance": 0.7143,
+    "seq_lengths": [
+      4,
+      7
+    ]
+  },
+  "hermetic vs sethian_gnostic": {
+    "role_seq_edit_distance": 6,
+    "normalized_role_seq_distance": 0.75,
+    "seq_lengths": [
+      4,
+      8
+    ]
+  },
+  "hermetic vs taoist_ddj": {
+    "role_seq_edit_distance": 3,
+    "normalized_role_seq_distance": 0.6,
+    "seq_lengths": [
+      4,
+      5
+    ]
+  },
+  "hermetic vs valentinian_gnostic": {
+    "role_seq_edit_distance": 6,
+    "normalized_role_seq_distance": 0.75,
+    "seq_lengths": [
+      4,
+      8
+    ]
+  },
+  "lurianic_kabbalistic vs plotinian_neoplatonic": {
+    "role_seq_edit_distance": 3,
+    "normalized_role_seq_distance": 0.4286,
+    "seq_lengths": [
+      7,
+      5
+    ]
+  },
+  "lurianic_kabbalistic vs samkhya": {
+    "role_seq_edit_distance": 3,
+    "normalized_role_seq_distance": 0.4286,
+    "seq_lengths": [
+      7,
+      7
+    ]
+  },
+  "lurianic_kabbalistic vs sethian_gnostic": {
+    "role_seq_edit_distance": 4,
+    "normalized_role_seq_distance": 0.5,
+    "seq_lengths": [
+      7,
+      8
+    ]
+  },
+  "lurianic_kabbalistic vs taoist_ddj": {
+    "role_seq_edit_distance": 3,
+    "normalized_role_seq_distance": 0.4286,
+    "seq_lengths": [
+      7,
+      5
+    ]
+  },
+  "lurianic_kabbalistic vs valentinian_gnostic": {
+    "role_seq_edit_distance": 4,
+    "normalized_role_seq_distance": 0.5,
+    "seq_lengths": [
+      7,
+      8
+    ]
+  },
+  "plotinian_neoplatonic vs samkhya": {
+    "role_seq_edit_distance": 2,
+    "normalized_role_seq_distance": 0.2857,
+    "seq_lengths": [
+      5,
+      7
+    ]
+  },
+  "plotinian_neoplatonic vs sethian_gnostic": {
+    "role_seq_edit_distance": 4,
+    "normalized_role_seq_distance": 0.5,
+    "seq_lengths": [
+      5,
+      8
+    ]
+  },
+  "plotinian_neoplatonic vs taoist_ddj": {
+    "role_seq_edit_distance": 1,
+    "normalized_role_seq_distance": 0.2,
+    "seq_lengths": [
+      5,
+      5
+    ]
+  },
+  "plotinian_neoplatonic vs valentinian_gnostic": {
+    "role_seq_edit_distance": 4,
+    "normalized_role_seq_distance": 0.5,
+    "seq_lengths": [
+      5,
+      8
+    ]
+  },
+  "samkhya vs sethian_gnostic": {
+    "role_seq_edit_distance": 2,
+    "normalized_role_seq_distance": 0.25,
+    "seq_lengths": [
+      7,
+      8
+    ]
+  },
+  "samkhya vs taoist_ddj": {
+    "role_seq_edit_distance": 2,
+    "normalized_role_seq_distance": 0.2857,
+    "seq_lengths": [
+      7,
+      5
+    ]
+  },
+  "samkhya vs valentinian_gnostic": {
+    "role_seq_edit_distance": 2,
+    "normalized_role_seq_distance": 0.25,
+    "seq_lengths": [
+      7,
+      8
+    ]
+  },
+  "sethian_gnostic vs taoist_ddj": {
+    "role_seq_edit_distance": 3,
+    "normalized_role_seq_distance": 0.375,
+    "seq_lengths": [
+      8,
+      5
+    ]
+  },
+  "sethian_gnostic vs valentinian_gnostic": {
+    "role_seq_edit_distance": 0,
+    "normalized_role_seq_distance": 0.0,
+    "seq_lengths": [
+      8,
+      8
+    ]
+  },
+  "taoist_ddj vs valentinian_gnostic": {
+    "role_seq_edit_distance": 3,
+    "normalized_role_seq_distance": 0.375,
+    "seq_lengths": [
+      5,
+      8
+    ]
+  }
+}

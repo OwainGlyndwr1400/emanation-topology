@@ -1,0 +1,1129 @@
+{
+  "chaldean": {
+    "tradition": "chaldean",
+    "node_count": 6,
+    "edge_count": 5,
+    "depth": 5,
+    "diameter": 5,
+    "width": 1,
+    "leaf_count": 1,
+    "branching_node_count": 0,
+    "max_branching_factor": 1,
+    "mean_branching_factor": 1.0,
+    "root": "father",
+    "leaves": [
+      "earth_matter"
+    ],
+    "branching_nodes": [],
+    "in_degree_sequence": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "out_degree_sequence": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "edge_type_counts": {
+      "creation": 1,
+      "emanation": 4
+    },
+    "functional_role_counts": {
+      "intellect": 1,
+      "demiurge": 1,
+      "soul": 1,
+      "matter": 1,
+      "intermediary": 1,
+      "source": 1
+    },
+    "depth_profile": {
+      "0": [
+        "father"
+      ],
+      "1": [
+        "hecate"
+      ],
+      "2": [
+        "second_mind"
+      ],
+      "3": [
+        "iynges"
+      ],
+      "4": [
+        "hypezokos"
+      ],
+      "5": [
+        "earth_matter"
+      ]
+    },
+    "role_sequence_by_level": {
+      "0": [
+        "source"
+      ],
+      "1": [
+        "soul"
+      ],
+      "2": [
+        "intellect"
+      ],
+      "3": [
+        "intermediary"
+      ],
+      "4": [
+        "demiurge"
+      ],
+      "5": [
+        "matter"
+      ]
+    },
+    "betweenness_centrality": {
+      "father": 0.0,
+      "hecate": 0.2,
+      "second_mind": 0.3,
+      "iynges": 0.3,
+      "hypezokos": 0.2,
+      "earth_matter": 0.0
+    },
+    "closeness_centrality": {
+      "father": 0.0,
+      "hecate": 0.2,
+      "second_mind": 0.2667,
+      "iynges": 0.3,
+      "hypezokos": 0.32,
+      "earth_matter": 0.3333
+    },
+    "topological_sort": [
+      "father",
+      "hecate",
+      "second_mind",
+      "iynges",
+      "hypezokos",
+      "earth_matter"
+    ],
+    "wl_hash_structure": "00cebda468b19313e4e9c98aee07c4df",
+    "wl_hash_with_roles": "e1cd9da6b9d79e3732bbdf3d3ab7ed50",
+    "is_linear_chain": true,
+    "has_fallen_node": false,
+    "has_process_nodes": false,
+    "has_fragmentation_edge": false,
+    "has_contraction_edge": false,
+    "has_reflection_edge": false
+  },
+  "genesis_creationist": {
+    "tradition": "genesis_creationist",
+    "node_count": 8,
+    "edge_count": 7,
+    "depth": 2,
+    "diameter": 2,
+    "width": 6,
+    "leaf_count": 6,
+    "branching_node_count": 1,
+    "max_branching_factor": 6,
+    "mean_branching_factor": 3.5,
+    "root": "elohim",
+    "leaves": [
+      "light_darkness",
+      "firmament_waters",
+      "earth_vegetation",
+      "luminaries",
+      "creatures",
+      "humanity"
+    ],
+    "branching_nodes": [
+      "primordial_state"
+    ],
+    "in_degree_sequence": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "out_degree_sequence": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      6
+    ],
+    "edge_type_counts": {
+      "creation": 7
+    },
+    "functional_role_counts": {
+      "first_emanation": 1,
+      "matter": 2,
+      "intermediary": 4,
+      "source": 1
+    },
+    "depth_profile": {
+      "0": [
+        "elohim"
+      ],
+      "1": [
+        "primordial_state"
+      ],
+      "2": [
+        "light_darkness",
+        "firmament_waters",
+        "earth_vegetation",
+        "luminaries",
+        "creatures",
+        "humanity"
+      ]
+    },
+    "role_sequence_by_level": {
+      "0": [
+        "source"
+      ],
+      "1": [
+        "first_emanation"
+      ],
+      "2": [
+        "intermediary",
+        "intermediary",
+        "intermediary",
+        "intermediary",
+        "matter",
+        "matter"
+      ]
+    },
+    "betweenness_centrality": {
+      "elohim": 0.0,
+      "primordial_state": 0.1429,
+      "light_darkness": 0.0,
+      "firmament_waters": 0.0,
+      "earth_vegetation": 0.0,
+      "luminaries": 0.0,
+      "creatures": 0.0,
+      "humanity": 0.0
+    },
+    "closeness_centrality": {
+      "elohim": 0.0,
+      "primordial_state": 0.1429,
+      "light_darkness": 0.1905,
+      "firmament_waters": 0.1905,
+      "earth_vegetation": 0.1905,
+      "luminaries": 0.1905,
+      "creatures": 0.1905,
+      "humanity": 0.1905
+    },
+    "topological_sort": [
+      "elohim",
+      "primordial_state",
+      "light_darkness",
+      "firmament_waters",
+      "earth_vegetation",
+      "luminaries",
+      "creatures",
+      "humanity"
+    ],
+    "wl_hash_structure": "f951ce00b307f5e99ead703331cf4812",
+    "wl_hash_with_roles": "0543e341e80e08c2443dc43b60d8c0bd",
+    "is_linear_chain": false,
+    "has_fallen_node": false,
+    "has_process_nodes": false,
+    "has_fragmentation_edge": false,
+    "has_contraction_edge": false,
+    "has_reflection_edge": false
+  },
+  "hermetic": {
+    "tradition": "hermetic",
+    "node_count": 8,
+    "edge_count": 7,
+    "depth": 3,
+    "diameter": 5,
+    "width": 3,
+    "leaf_count": 3,
+    "branching_node_count": 1,
+    "max_branching_factor": 3,
+    "mean_branching_factor": 1.4,
+    "root": "god_mind",
+    "leaves": [
+      "nature",
+      "sensible_cosmos",
+      "mortal_humanity"
+    ],
+    "branching_nodes": [
+      "god_mind"
+    ],
+    "in_degree_sequence": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "out_degree_sequence": [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      3
+    ],
+    "edge_type_counts": {
+      "fragmentation": 1,
+      "creation": 3,
+      "reflection": 1,
+      "emanation": 2
+    },
+    "functional_role_counts": {
+      "demiurge": 1,
+      "first_emanation": 1,
+      "matter": 2,
+      "intermediary": 3,
+      "source": 1
+    },
+    "depth_profile": {
+      "0": [
+        "god_mind"
+      ],
+      "1": [
+        "logos",
+        "demiurgos",
+        "anthropos"
+      ],
+      "2": [
+        "nature",
+        "seven_governors",
+        "mortal_humanity"
+      ],
+      "3": [
+        "sensible_cosmos"
+      ]
+    },
+    "role_sequence_by_level": {
+      "0": [
+        "source"
+      ],
+      "1": [
+        "demiurge",
+        "first_emanation",
+        "intermediary"
+      ],
+      "2": [
+        "intermediary",
+        "intermediary",
+        "matter"
+      ],
+      "3": [
+        "matter"
+      ]
+    },
+    "betweenness_centrality": {
+      "god_mind": 0.0,
+      "logos": 0.0238,
+      "demiurgos": 0.0476,
+      "anthropos": 0.0238,
+      "seven_governors": 0.0476,
+      "nature": 0.0,
+      "sensible_cosmos": 0.0,
+      "mortal_humanity": 0.0
+    },
+    "closeness_centrality": {
+      "god_mind": 0.0,
+      "logos": 0.1429,
+      "demiurgos": 0.1429,
+      "anthropos": 0.1429,
+      "seven_governors": 0.1905,
+      "nature": 0.1905,
+      "sensible_cosmos": 0.2143,
+      "mortal_humanity": 0.1905
+    },
+    "topological_sort": [
+      "god_mind",
+      "logos",
+      "demiurgos",
+      "anthropos",
+      "nature",
+      "seven_governors",
+      "mortal_humanity",
+      "sensible_cosmos"
+    ],
+    "wl_hash_structure": "1f00c7b5cfb72fc68d219ce7a795a5da",
+    "wl_hash_with_roles": "cbf37aed379596a25131bc65296ca159",
+    "is_linear_chain": false,
+    "has_fallen_node": false,
+    "has_process_nodes": false,
+    "has_fragmentation_edge": true,
+    "has_contraction_edge": false,
+    "has_reflection_edge": true
+  },
+  "lurianic_kabbalistic": {
+    "tradition": "lurianic_kabbalistic",
+    "node_count": 7,
+    "edge_count": 6,
+    "depth": 6,
+    "diameter": 6,
+    "width": 1,
+    "leaf_count": 1,
+    "branching_node_count": 0,
+    "max_branching_factor": 1,
+    "mean_branching_factor": 1.0,
+    "root": "ain_sof",
+    "leaves": [
+      "malkuth_material"
+    ],
+    "branching_nodes": [],
+    "in_degree_sequence": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "out_degree_sequence": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "edge_type_counts": {
+      "fragmentation": 1,
+      "contraction": 1,
+      "creation": 2,
+      "emanation": 2
+    },
+    "functional_role_counts": {
+      "intellect": 1,
+      "process": 2,
+      "first_emanation": 1,
+      "matter": 1,
+      "intermediary": 1,
+      "source": 1
+    },
+    "depth_profile": {
+      "0": [
+        "ain_sof"
+      ],
+      "1": [
+        "tzimtzum"
+      ],
+      "2": [
+        "adam_kadmon"
+      ],
+      "3": [
+        "sefirot"
+      ],
+      "4": [
+        "shevirat"
+      ],
+      "5": [
+        "lower_worlds"
+      ],
+      "6": [
+        "malkuth_material"
+      ]
+    },
+    "role_sequence_by_level": {
+      "0": [
+        "source"
+      ],
+      "1": [
+        "process"
+      ],
+      "2": [
+        "first_emanation"
+      ],
+      "3": [
+        "intellect"
+      ],
+      "4": [
+        "process"
+      ],
+      "5": [
+        "intermediary"
+      ],
+      "6": [
+        "matter"
+      ]
+    },
+    "betweenness_centrality": {
+      "ain_sof": 0.0,
+      "tzimtzum": 0.1667,
+      "adam_kadmon": 0.2667,
+      "sefirot": 0.3,
+      "shevirat": 0.2667,
+      "lower_worlds": 0.1667,
+      "malkuth_material": 0.0
+    },
+    "closeness_centrality": {
+      "ain_sof": 0.0,
+      "tzimtzum": 0.1667,
+      "adam_kadmon": 0.2222,
+      "sefirot": 0.25,
+      "shevirat": 0.2667,
+      "lower_worlds": 0.2778,
+      "malkuth_material": 0.2857
+    },
+    "topological_sort": [
+      "ain_sof",
+      "tzimtzum",
+      "adam_kadmon",
+      "sefirot",
+      "shevirat",
+      "lower_worlds",
+      "malkuth_material"
+    ],
+    "wl_hash_structure": "3a735cec9383f8b7cf157c22ba291dd4",
+    "wl_hash_with_roles": "16420d838edc44305dd36e349ce9e2dd",
+    "is_linear_chain": true,
+    "has_fallen_node": false,
+    "has_process_nodes": true,
+    "has_fragmentation_edge": true,
+    "has_contraction_edge": true,
+    "has_reflection_edge": false
+  },
+  "plotinian_neoplatonic": {
+    "tradition": "plotinian_neoplatonic",
+    "node_count": 5,
+    "edge_count": 4,
+    "depth": 4,
+    "diameter": 4,
+    "width": 1,
+    "leaf_count": 1,
+    "branching_node_count": 0,
+    "max_branching_factor": 1,
+    "mean_branching_factor": 1.0,
+    "root": "one",
+    "leaves": [
+      "matter"
+    ],
+    "branching_nodes": [],
+    "in_degree_sequence": [
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "out_degree_sequence": [
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "edge_type_counts": {
+      "reflection": 1,
+      "emanation": 3
+    },
+    "functional_role_counts": {
+      "soul": 1,
+      "first_emanation": 1,
+      "matter": 1,
+      "intermediary": 1,
+      "source": 1
+    },
+    "depth_profile": {
+      "0": [
+        "one"
+      ],
+      "1": [
+        "nous"
+      ],
+      "2": [
+        "psyche"
+      ],
+      "3": [
+        "nature"
+      ],
+      "4": [
+        "matter"
+      ]
+    },
+    "role_sequence_by_level": {
+      "0": [
+        "source"
+      ],
+      "1": [
+        "first_emanation"
+      ],
+      "2": [
+        "soul"
+      ],
+      "3": [
+        "intermediary"
+      ],
+      "4": [
+        "matter"
+      ]
+    },
+    "betweenness_centrality": {
+      "one": 0.0,
+      "nous": 0.25,
+      "psyche": 0.3333,
+      "nature": 0.25,
+      "matter": 0.0
+    },
+    "closeness_centrality": {
+      "one": 0.0,
+      "nous": 0.25,
+      "psyche": 0.3333,
+      "nature": 0.375,
+      "matter": 0.4
+    },
+    "topological_sort": [
+      "one",
+      "nous",
+      "psyche",
+      "nature",
+      "matter"
+    ],
+    "wl_hash_structure": "b31ca6b0251bedeec7ccf9735f205c18",
+    "wl_hash_with_roles": "735bf4a38fb40661a979de94ea4751bc",
+    "is_linear_chain": true,
+    "has_fallen_node": false,
+    "has_process_nodes": false,
+    "has_fragmentation_edge": false,
+    "has_contraction_edge": false,
+    "has_reflection_edge": true
+  },
+  "samkhya": {
+    "tradition": "samkhya",
+    "node_count": 7,
+    "edge_count": 6,
+    "depth": 6,
+    "diameter": 6,
+    "width": 1,
+    "leaf_count": 1,
+    "branching_node_count": 0,
+    "max_branching_factor": 1,
+    "mean_branching_factor": 1.0,
+    "root": "purusha",
+    "leaves": [
+      "bhutas"
+    ],
+    "branching_nodes": [],
+    "in_degree_sequence": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "out_degree_sequence": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "edge_type_counts": {
+      "creation": 1,
+      "emanation": 5
+    },
+    "functional_role_counts": {
+      "intellect": 1,
+      "soul": 1,
+      "first_emanation": 1,
+      "matter": 1,
+      "intermediary": 2,
+      "source": 1
+    },
+    "depth_profile": {
+      "0": [
+        "purusha"
+      ],
+      "1": [
+        "prakriti"
+      ],
+      "2": [
+        "mahat_buddhi"
+      ],
+      "3": [
+        "ahamkara"
+      ],
+      "4": [
+        "manas"
+      ],
+      "5": [
+        "tanmatras"
+      ],
+      "6": [
+        "bhutas"
+      ]
+    },
+    "role_sequence_by_level": {
+      "0": [
+        "source"
+      ],
+      "1": [
+        "first_emanation"
+      ],
+      "2": [
+        "intellect"
+      ],
+      "3": [
+        "intermediary"
+      ],
+      "4": [
+        "soul"
+      ],
+      "5": [
+        "intermediary"
+      ],
+      "6": [
+        "matter"
+      ]
+    },
+    "betweenness_centrality": {
+      "purusha": 0.0,
+      "prakriti": 0.1667,
+      "mahat_buddhi": 0.2667,
+      "ahamkara": 0.3,
+      "manas": 0.2667,
+      "tanmatras": 0.1667,
+      "bhutas": 0.0
+    },
+    "closeness_centrality": {
+      "purusha": 0.0,
+      "prakriti": 0.1667,
+      "mahat_buddhi": 0.2222,
+      "ahamkara": 0.25,
+      "manas": 0.2667,
+      "tanmatras": 0.2778,
+      "bhutas": 0.2857
+    },
+    "topological_sort": [
+      "purusha",
+      "prakriti",
+      "mahat_buddhi",
+      "ahamkara",
+      "manas",
+      "tanmatras",
+      "bhutas"
+    ],
+    "wl_hash_structure": "3a735cec9383f8b7cf157c22ba291dd4",
+    "wl_hash_with_roles": "819eb7ac9fa10d26f6d959b9cb7b0383",
+    "is_linear_chain": true,
+    "has_fallen_node": false,
+    "has_process_nodes": false,
+    "has_fragmentation_edge": false,
+    "has_contraction_edge": false,
+    "has_reflection_edge": false
+  },
+  "sethian_gnostic": {
+    "tradition": "sethian_gnostic",
+    "node_count": 8,
+    "edge_count": 7,
+    "depth": 7,
+    "diameter": 7,
+    "width": 1,
+    "leaf_count": 1,
+    "branching_node_count": 0,
+    "max_branching_factor": 1,
+    "mean_branching_factor": 1.0,
+    "root": "invisible_spirit",
+    "leaves": [
+      "material_world"
+    ],
+    "branching_nodes": [],
+    "in_degree_sequence": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "out_degree_sequence": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "edge_type_counts": {
+      "fragmentation": 2,
+      "creation": 2,
+      "emanation": 3
+    },
+    "functional_role_counts": {
+      "intellect": 1,
+      "fallen": 1,
+      "demiurge": 1,
+      "first_emanation": 1,
+      "matter": 1,
+      "intermediary": 2,
+      "source": 1
+    },
+    "depth_profile": {
+      "0": [
+        "invisible_spirit"
+      ],
+      "1": [
+        "protennoia"
+      ],
+      "2": [
+        "autogenes"
+      ],
+      "3": [
+        "four_luminaries"
+      ],
+      "4": [
+        "sophia_epinoia"
+      ],
+      "5": [
+        "yaltabaoth"
+      ],
+      "6": [
+        "archons"
+      ],
+      "7": [
+        "material_world"
+      ]
+    },
+    "role_sequence_by_level": {
+      "0": [
+        "source"
+      ],
+      "1": [
+        "first_emanation"
+      ],
+      "2": [
+        "intellect"
+      ],
+      "3": [
+        "intermediary"
+      ],
+      "4": [
+        "fallen"
+      ],
+      "5": [
+        "demiurge"
+      ],
+      "6": [
+        "intermediary"
+      ],
+      "7": [
+        "matter"
+      ]
+    },
+    "betweenness_centrality": {
+      "invisible_spirit": 0.0,
+      "protennoia": 0.1429,
+      "autogenes": 0.2381,
+      "four_luminaries": 0.2857,
+      "sophia_epinoia": 0.2857,
+      "yaltabaoth": 0.2381,
+      "archons": 0.1429,
+      "material_world": 0.0
+    },
+    "closeness_centrality": {
+      "invisible_spirit": 0.0,
+      "protennoia": 0.1429,
+      "autogenes": 0.1905,
+      "four_luminaries": 0.2143,
+      "sophia_epinoia": 0.2286,
+      "yaltabaoth": 0.2381,
+      "archons": 0.2449,
+      "material_world": 0.25
+    },
+    "topological_sort": [
+      "invisible_spirit",
+      "protennoia",
+      "autogenes",
+      "four_luminaries",
+      "sophia_epinoia",
+      "yaltabaoth",
+      "archons",
+      "material_world"
+    ],
+    "wl_hash_structure": "62762f9ffff1c9cdd256736af0c9c06f",
+    "wl_hash_with_roles": "563b601d6e5f20d678d8c5de78672a13",
+    "is_linear_chain": true,
+    "has_fallen_node": true,
+    "has_process_nodes": false,
+    "has_fragmentation_edge": true,
+    "has_contraction_edge": false,
+    "has_reflection_edge": false
+  },
+  "taoist_ddj": {
+    "tradition": "taoist_ddj",
+    "node_count": 5,
+    "edge_count": 4,
+    "depth": 4,
+    "diameter": 4,
+    "width": 1,
+    "leaf_count": 1,
+    "branching_node_count": 0,
+    "max_branching_factor": 1,
+    "mean_branching_factor": 1.0,
+    "root": "dao",
+    "leaves": [
+      "wan_wu"
+    ],
+    "branching_nodes": [],
+    "in_degree_sequence": [
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "out_degree_sequence": [
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "edge_type_counts": {
+      "creation": 1,
+      "emanation": 3
+    },
+    "functional_role_counts": {
+      "first_emanation": 1,
+      "matter": 1,
+      "intermediary": 2,
+      "source": 1
+    },
+    "depth_profile": {
+      "0": [
+        "dao"
+      ],
+      "1": [
+        "yi_one"
+      ],
+      "2": [
+        "er_two"
+      ],
+      "3": [
+        "san_three"
+      ],
+      "4": [
+        "wan_wu"
+      ]
+    },
+    "role_sequence_by_level": {
+      "0": [
+        "source"
+      ],
+      "1": [
+        "first_emanation"
+      ],
+      "2": [
+        "intermediary"
+      ],
+      "3": [
+        "intermediary"
+      ],
+      "4": [
+        "matter"
+      ]
+    },
+    "betweenness_centrality": {
+      "dao": 0.0,
+      "yi_one": 0.25,
+      "er_two": 0.3333,
+      "san_three": 0.25,
+      "wan_wu": 0.0
+    },
+    "closeness_centrality": {
+      "dao": 0.0,
+      "yi_one": 0.25,
+      "er_two": 0.3333,
+      "san_three": 0.375,
+      "wan_wu": 0.4
+    },
+    "topological_sort": [
+      "dao",
+      "yi_one",
+      "er_two",
+      "san_three",
+      "wan_wu"
+    ],
+    "wl_hash_structure": "b31ca6b0251bedeec7ccf9735f205c18",
+    "wl_hash_with_roles": "66a2c4dc258e5d86598279863b9c540f",
+    "is_linear_chain": true,
+    "has_fallen_node": false,
+    "has_process_nodes": false,
+    "has_fragmentation_edge": false,
+    "has_contraction_edge": false,
+    "has_reflection_edge": false
+  },
+  "valentinian_gnostic": {
+    "tradition": "valentinian_gnostic",
+    "node_count": 9,
+    "edge_count": 8,
+    "depth": 7,
+    "diameter": 7,
+    "width": 2,
+    "leaf_count": 2,
+    "branching_node_count": 1,
+    "max_branching_factor": 2,
+    "mean_branching_factor": 1.1429,
+    "root": "invisible_spirit",
+    "leaves": [
+      "adamas",
+      "material_world"
+    ],
+    "branching_nodes": [
+      "autogenes"
+    ],
+    "in_degree_sequence": [
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "out_degree_sequence": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2
+    ],
+    "edge_type_counts": {
+      "fragmentation": 2,
+      "creation": 2,
+      "emanation": 4
+    },
+    "functional_role_counts": {
+      "intellect": 1,
+      "fallen": 1,
+      "demiurge": 1,
+      "first_emanation": 1,
+      "matter": 1,
+      "intermediary": 3,
+      "source": 1
+    },
+    "depth_profile": {
+      "0": [
+        "invisible_spirit"
+      ],
+      "1": [
+        "barbelo"
+      ],
+      "2": [
+        "autogenes"
+      ],
+      "3": [
+        "four_luminaries",
+        "adamas"
+      ],
+      "4": [
+        "sophia"
+      ],
+      "5": [
+        "yaltabaoth"
+      ],
+      "6": [
+        "archons"
+      ],
+      "7": [
+        "material_world"
+      ]
+    },
+    "role_sequence_by_level": {
+      "0": [
+        "source"
+      ],
+      "1": [
+        "first_emanation"
+      ],
+      "2": [
+        "intellect"
+      ],
+      "3": [
+        "intermediary",
+        "intermediary"
+      ],
+      "4": [
+        "fallen"
+      ],
+      "5": [
+        "demiurge"
+      ],
+      "6": [
+        "intermediary"
+      ],
+      "7": [
+        "matter"
+      ]
+    },
+    "betweenness_centrality": {
+      "invisible_spirit": 0.0,
+      "barbelo": 0.125,
+      "autogenes": 0.2143,
+      "four_luminaries": 0.2143,
+      "adamas": 0.0,
+      "sophia": 0.2143,
+      "yaltabaoth": 0.1786,
+      "archons": 0.1071,
+      "material_world": 0.0
+    },
+    "closeness_centrality": {
+      "invisible_spirit": 0.0,
+      "barbelo": 0.125,
+      "autogenes": 0.1667,
+      "four_luminaries": 0.1875,
+      "adamas": 0.1875,
+      "sophia": 0.2,
+      "yaltabaoth": 0.2083,
+      "archons": 0.2143,
+      "material_world": 0.2188
+    },
+    "topological_sort": [
+      "invisible_spirit",
+      "barbelo",
+      "autogenes",
+      "four_luminaries",
+      "adamas",
+      "sophia",
+      "yaltabaoth",
+      "archons",
+      "material_world"
+    ],
+    "wl_hash_structure": "cd01ebe359d85d0abe3d8b77117909f0",
+    "wl_hash_with_roles": "ade1a79ab8b75a055d60f38f94e6980a",
+    "is_linear_chain": false,
+    "has_fallen_node": true,
+    "has_process_nodes": false,
+    "has_fragmentation_edge": true,
+    "has_contraction_edge": false,
+    "has_reflection_edge": false
+  }
+}

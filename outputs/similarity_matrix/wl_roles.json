@@ -1,0 +1,110 @@
+{
+  "chaldean vs genesis_creationist": {
+    "wl_role_similarity": 0.152318
+  },
+  "chaldean vs hermetic": {
+    "wl_role_similarity": 0.220479
+  },
+  "chaldean vs lurianic_kabbalistic": {
+    "wl_role_similarity": 0.149071
+  },
+  "chaldean vs plotinian_neoplatonic": {
+    "wl_role_similarity": 0.182574
+  },
+  "chaldean vs samkhya": {
+    "wl_role_similarity": 0.223607
+  },
+  "chaldean vs sethian_gnostic": {
+    "wl_role_similarity": 0.210042
+  },
+  "chaldean vs taoist_ddj": {
+    "wl_role_similarity": 0.174078
+  },
+  "chaldean vs valentinian_gnostic": {
+    "wl_role_similarity": 0.220479
+  },
+  "genesis_creationist vs hermetic": {
+    "wl_role_similarity": 0.361873
+  },
+  "genesis_creationist vs lurianic_kabbalistic": {
+    "wl_role_similarity": 0.1557
+  },
+  "genesis_creationist vs plotinian_neoplatonic": {
+    "wl_role_similarity": 0.214529
+  },
+  "genesis_creationist vs samkhya": {
+    "wl_role_similarity": 0.253012
+  },
+  "genesis_creationist vs sethian_gnostic": {
+    "wl_role_similarity": 0.237664
+  },
+  "genesis_creationist vs taoist_ddj": {
+    "wl_role_similarity": 0.295455
+  },
+  "genesis_creationist vs valentinian_gnostic": {
+    "wl_role_similarity": 0.279629
+  },
+  "hermetic vs lurianic_kabbalistic": {
+    "wl_role_similarity": 0.253546
+  },
+  "hermetic vs plotinian_neoplatonic": {
+    "wl_role_similarity": 0.31053
+  },
+  "hermetic vs samkhya": {
+    "wl_role_similarity": 0.338062
+  },
+  "hermetic vs sethian_gnostic": {
+    "wl_role_similarity": 0.396942
+  },
+  "hermetic vs taoist_ddj": {
+    "wl_role_similarity": 0.427669
+  },
+  "hermetic vs valentinian_gnostic": {
+    "wl_role_similarity": 0.428571
+  },
+  "lurianic_kabbalistic vs plotinian_neoplatonic": {
+    "wl_role_similarity": 0.204124
+  },
+  "lurianic_kabbalistic vs samkhya": {
+    "wl_role_similarity": 0.233333
+  },
+  "lurianic_kabbalistic vs sethian_gnostic": {
+    "wl_role_similarity": 0.219179
+  },
+  "lurianic_kabbalistic vs taoist_ddj": {
+    "wl_role_similarity": 0.23355
+  },
+  "lurianic_kabbalistic vs valentinian_gnostic": {
+    "wl_role_similarity": 0.225374
+  },
+  "plotinian_neoplatonic vs samkhya": {
+    "wl_role_similarity": 0.408248
+  },
+  "plotinian_neoplatonic vs sethian_gnostic": {
+    "wl_role_similarity": 0.268438
+  },
+  "plotinian_neoplatonic vs taoist_ddj": {
+    "wl_role_similarity": 0.333712
+  },
+  "plotinian_neoplatonic vs valentinian_gnostic": {
+    "wl_role_similarity": 0.276026
+  },
+  "samkhya vs sethian_gnostic": {
+    "wl_role_similarity": 0.469668
+  },
+  "samkhya vs taoist_ddj": {
+    "wl_role_similarity": 0.350325
+  },
+  "samkhya vs valentinian_gnostic": {
+    "wl_role_similarity": 0.394405
+  },
+  "sethian_gnostic vs taoist_ddj": {
+    "wl_role_similarity": 0.329073
+  },
+  "sethian_gnostic vs valentinian_gnostic": {
+    "wl_role_similarity": 0.714496
+  },
+  "taoist_ddj vs valentinian_gnostic": {
+    "wl_role_similarity": 0.361873
+  }
+}
